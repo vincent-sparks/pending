@@ -1,0 +1,9 @@
+[package]
+name = "pending"
+version = "1.0.0"
+license="mit"
+edition = "2021"
+
+[dependencies]
+oneshot = "0.1.8"
+replace_with = "0.1.7"
